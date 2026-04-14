@@ -3,7 +3,7 @@
 int main()
 {
 
-printf("Hola bro, como estas?");
+printf("Hola bro, como estas??");
 
 system("pause");
 
